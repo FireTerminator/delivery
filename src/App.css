@@ -1,3 +1,6 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
 .App {
   text-align: center;
 }
@@ -21,6 +24,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.buttonteste{
+  background-color: #78c800;
+
 }
 
 @keyframes App-logo-spin {
